@@ -1,3 +1,5 @@
+JEN PRO VALACHA
+
 Repozitář určený pro překlad příručky Getting Started with LibreOffice do češtiny pomocí programu OmegaT.
 
 Více o této činnosti:
